@@ -1,0 +1,9 @@
+{
+	"uid":"appwatchdog",
+	"append": true,
+	"watch": true,
+	"script": "App.js",
+	"sourceDir":"/root/WatchDog/"
+	
+
+}
